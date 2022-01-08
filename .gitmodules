@@ -1,3 +1,6 @@
 [submodule "TOC"]
 	path = TOC
 	url = https://github.com/alk222/TOC
+[submodule "TP2"]
+	path = TP2
+	url = https://github.com/alk222/TP2
