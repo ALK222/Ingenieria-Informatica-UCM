@@ -1,3 +1,6 @@
 [submodule "1º/FP"]
 	path = 1º/FP
 	url = https://github.com/alk222/FP
+[submodule "2º/TP1/BuffyVampireSlayer"]
+	path = 2º/TP1/BuffyVampireSlayer
+	url = https://github.com/alk222/Buffy-Vampire-Slayer
