@@ -10,3 +10,6 @@
 [submodule "2º/TP2"]
 	path = 2º/TP2
 	url = https://github.com/alk222/TP2
+[submodule "2º/BD"]
+	path = 2º/BD
+	url = https://github.com/alk222/BD
