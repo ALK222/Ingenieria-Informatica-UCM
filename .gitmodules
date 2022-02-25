@@ -16,3 +16,6 @@
 [submodule "2º/TOC"]
 	path = 2º/TOC
 	url = https://github.com/alk222/TOC
+[submodule "2º/IS1"]
+	path = 2º/IS1
+	url = https://github.com/alk222/IS1
