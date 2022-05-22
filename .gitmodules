@@ -19,3 +19,6 @@
 [submodule "2º/IS1"]
 	path = 2º/IS1
 	url = https://github.com/alk222/IS1
+[submodule "2º/PE"]
+	path = 2º/PE
+	url = https://github.com/alk222/PE
