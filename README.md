@@ -5,12 +5,12 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
 ## Índice
 
 - Primero:
-  - [FP](./1º/FP)
+  - [FP](https://github.com/ALK222/FP)
 - Segundo:
-  - [BD](./2º/BD)
-  - [IS1](./2º/IS1)
-  - [TOC](./2º/TOC)
+  - [BD](https://github.com/ALK222/BD)
+  - [IS1](https://github.com/ALK222/IS1)
+  - [TOC](https://github.com/ALK222/TOC)
   - [TP1](./2º/TP1)
-    - [SpaceInvaders](./2º/TP1/SpaceInvaders/)
-    - [Buffy Vampire Slayer](./2º/TP1/BuffyVampireSlayer/)
-  - [TP2](./2º/TP2)
+    - [SpaceInvaders](https://github.com/ALK222/TP1)
+    - [Buffy Vampire Slayer](https://github.com/ALK222/Buffy-Vampire-Slayer)
+  - [TP2](https://github.com/ALK222/TP2)
