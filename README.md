@@ -9,6 +9,7 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
 - Segundo:
   - [BD](https://github.com/ALK222/BD)
   - [IS1](https://github.com/ALK222/IS1)
+  - [PE](https://github.com/ALK222/PE/)
   - [TOC](https://github.com/ALK222/TOC)
   - [TP1](./2º/TP1)
     - [SpaceInvaders](https://github.com/ALK222/TP1)
