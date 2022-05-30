@@ -22,3 +22,9 @@
 [submodule "2º/PE"]
 	path = 2º/PE
 	url = https://github.com/alk222/PE
+[submodule "2º/IS2/BanqueoIS2"]
+	path = 2º/IS2/BanqueoIS2
+	url = https://github.com/alk222/BanqueoIS2
+[submodule "2º/IS2/Just-Travel-It"]
+	path = 2º/IS2/Just-Travel-It
+	url = https://github.com/alk222/Just-Travel-IT
