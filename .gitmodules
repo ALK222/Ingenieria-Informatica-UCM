@@ -28,3 +28,9 @@
 [submodule "2º/IS2/Just-Travel-It"]
 	path = 2º/IS2/Just-Travel-It
 	url = https://github.com/alk222/Just-Travel-IT
+[submodule "varios/concurso-codigo-espagueti/trubbish"]
+	path = varios/concurso-codigo-espagueti/trubbish
+	url = https://github.com/ALK222/trubbish
+[submodule "varios/LAG/LESD"]
+	path = varios/LAG/LESD
+	url = https://github.com/Asociacion-LAG/LESD
