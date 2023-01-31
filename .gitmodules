@@ -34,3 +34,6 @@
 [submodule "varios/LAG/LESD"]
 	path = varios/LAG/LESD
 	url = https://github.com/Asociacion-LAG/LESD
+[submodule "optativas/NoSQL"]
+	path = optativas/NoSQL
+	url = https://github.com/alk222/NoSQL
