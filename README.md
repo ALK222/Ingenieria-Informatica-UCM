@@ -18,6 +18,10 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
     - [SpaceInvaders](https://github.com/ALK222/TP1)
     - [Buffy Vampire Slayer](https://github.com/ALK222/Buffy-Vampire-Slayer)
   - [TP2](https://github.com/ALK222/TP2)
+- Tercero:
+  - [IA1](https://github.com/ALK222/IA1)
+- Cuarto:
+  - [ELP](https://github.com/ALK222/ELP)
 - Optativas:
   - [NoSQL](https://github.com/ALK222/NoSQL)
 - Varios (colección de cosas aleatorias hechas para la facultad):
