@@ -27,3 +27,4 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
 - Varios (colección de cosas aleatorias hechas para la facultad):
   - [concurso de código espagueti](./varios/concurso-codigo-espagueti/)
   - [LAG](./varios/LAG)
+  - [Semana de la Informática 2023](./varios/Semana-Informatica-2023/)
