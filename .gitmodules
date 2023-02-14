@@ -46,3 +46,6 @@ url = https://github.com/alk222/ELP
 [submodule "varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Ejercicios"]
 path = varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Ejercicios
 url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
+[submodule "varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Solucion"]
+	path = varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Solucion
+	url = https://github.com/alk222/Charla-Git-Semana-Informatica-2023/
