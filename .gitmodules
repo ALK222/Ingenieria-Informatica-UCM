@@ -1,48 +1,48 @@
 [submodule "1º/FP"]
-	path = 1º/FP
-	url = https://github.com/alk222/FP
+path = 1º/FP
+url = https://github.com/alk222/FP
 [submodule "2º/TP1/BuffyVampireSlayer"]
-	path = 2º/TP1/BuffyVampireSlayer
-	url = https://github.com/alk222/Buffy-Vampire-Slayer
+path = 2º/TP1/BuffyVampireSlayer
+url = https://github.com/alk222/Buffy-Vampire-Slayer
 [submodule "2º/TP1/SpaceInvaders"]
-	path = 2º/TP1/SpaceInvaders
-	url = https://github.com/alk222/TP1
+path = 2º/TP1/SpaceInvaders
+url = https://github.com/alk222/TP1
 [submodule "2º/TP2"]
-	path = 2º/TP2
-	url = https://github.com/alk222/TP2
+path = 2º/TP2
+url = https://github.com/alk222/TP2
 [submodule "2º/BD"]
-	path = 2º/BD
-	url = https://github.com/alk222/BD
+path = 2º/BD
+url = https://github.com/alk222/BD
 [submodule "2º/TOC"]
-	path = 2º/TOC
-	url = https://github.com/alk222/TOC
+path = 2º/TOC
+url = https://github.com/alk222/TOC
 [submodule "2º/IS1"]
-	path = 2º/IS1
-	url = https://github.com/alk222/IS1
+path = 2º/IS1
+url = https://github.com/alk222/IS1
 [submodule "2º/PE"]
-	path = 2º/PE
-	url = https://github.com/alk222/PE
+path = 2º/PE
+url = https://github.com/alk222/PE
 [submodule "2º/IS2/BanqueoIS2"]
-	path = 2º/IS2/BanqueoIS2
-	url = https://github.com/alk222/BanqueoIS2
+path = 2º/IS2/BanqueoIS2
+url = https://github.com/alk222/BanqueoIS2
 [submodule "2º/IS2/Just-Travel-It"]
-	path = 2º/IS2/Just-Travel-It
-	url = https://github.com/alk222/Just-Travel-IT
+path = 2º/IS2/Just-Travel-It
+url = https://github.com/alk222/Just-Travel-IT
 [submodule "varios/concurso-codigo-espagueti/trubbish"]
-	path = varios/concurso-codigo-espagueti/trubbish
-	url = https://github.com/ALK222/trubbish
+path = varios/concurso-codigo-espagueti/trubbish
+url = https://github.com/ALK222/trubbish
 [submodule "varios/LAG/LESD"]
-	path = varios/LAG/LESD
-	url = https://github.com/Asociacion-LAG/LESD
+path = varios/LAG/LESD
+url = https://github.com/Asociacion-LAG/LESD
 [submodule "optativas/NoSQL"]
-	path = optativas/NoSQL
-	url = https://github.com/alk222/NoSQL
+path = optativas/NoSQL
+url = https://github.com/alk222/NoSQL
 [submodule "3º/IA1"]
-	path = 3º/IA1
-	url = https://github.com/alk222/IA1
+path = 3º/IA1
+url = https://github.com/alk222/IA1
 [submodule "4º/ELP"]
-	path = 4º/ELP
-	url = https://github.com/alk222/ELP
+path = 4º/ELP
+url = https://github.com/alk222/ELP
 [submodule "varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Ejercicios"]
-	path = varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Ejercicios
-	url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
+path = varios/Semana-Informatica-2023/Charla-GitHub-Avanzado/Ejercicios
+url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
