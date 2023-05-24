@@ -24,6 +24,7 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
   - [ELP](https://github.com/ALK222/ELP)
 - Optativas:
   - [NoSQL](https://github.com/ALK222/NoSQL)
+  - [PEV](https://github.com/ALK222/PEV)
 - Varios (colección de cosas aleatorias hechas para la facultad):
   - [concurso de código espagueti](./varios/concurso-codigo-espagueti/)
   - [LAG](./varios/LAG)
