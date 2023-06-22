@@ -52,3 +52,6 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "optativas/PEV"]
 	path = optativas/PEV
 	url = https://github.com/alk222/PEV
+[submodule "3º/SO"]
+	path = 3º/SO
+	url = https://github.com/alk222/SO
