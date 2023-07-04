@@ -21,6 +21,7 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
 - Tercero:
   - [IA1](https://github.com/ALK222/IA1)
   - [SO](https://github.com/ALK222/SO)
+  - [PC](https://github.com/ALK222/PC)
 - Cuarto:
   - [ELP](https://github.com/ALK222/ELP)
 - Optativas:

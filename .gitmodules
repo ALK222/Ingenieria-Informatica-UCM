@@ -55,3 +55,6 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "3º/SO"]
 	path = 3º/SO
 	url = https://github.com/alk222/SO
+[submodule "3º/PC"]
+	path = 3º/PC
+	url = https://github.com/alk222/PC
