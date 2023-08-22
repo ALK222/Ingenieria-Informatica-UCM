@@ -8,6 +8,8 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
   - [FP](https://github.com/ALK222/FP)
 - Segundo:
   - [BD](https://github.com/ALK222/BD)
+  - [ED](https://github.com/ALK222/ED)
+  - [FAL](https://github.com/ALK222/FAL)
   - [IS1](https://github.com/ALK222/IS1)
   - [IS2](./2º/IS2/)
     - [BanqueoIS2](https://github.com/ALK222/BanqueoIS2)
