@@ -33,3 +33,4 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
   - [concurso de código espagueti](./varios/concurso-codigo-espagueti/)
   - [LAG](./varios/LAG)
   - [Semana de la Informática 2023](./varios/Semana-Informatica-2023/)
+  - [Charla Git y Github para principiantes 2023](./varios/Charla-Git-Principiantes-2023)
