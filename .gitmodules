@@ -70,3 +70,6 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "3º/MAR1"]
 	path = 3º/MAR1
 	url = https://github.com/ALK222/MARP1
+[submodule "3º/PD"]
+	path = 3º/PD
+	url = https://github.com/ALK222/PD
