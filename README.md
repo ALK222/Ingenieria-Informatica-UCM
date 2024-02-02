@@ -28,6 +28,7 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
   - [PD](https://github.com/ALK222/PD)
 - Cuarto:
   - [ELP](https://github.com/ALK222/ELP)
+  - [DSI](https://github.com/ALK222/DSI)
 - Optativas:
   - [NoSQL](https://github.com/ALK222/NoSQL)
   - [PEV](https://github.com/ALK222/PEV)
