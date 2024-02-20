@@ -37,3 +37,5 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
   - [LAG](./varios/LAG)
   - [Semana de la Informática 2023](./varios/Semana-Informatica-2023/)
   - [Charla Git y Github para principiantes 2023](https://github.com/ALK222/charla-git-principiantes-2023)
+  - [Semana de la infromática 2024](./varios/Semana-Informatica-2024)
+

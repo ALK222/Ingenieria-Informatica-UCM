@@ -79,3 +79,9 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "4º/DSI"]
 	path = 4º/DSI
 	url = https://github.com/ALK222/DSI
+[submodule "varios/Semana-Informatica-2024/Charla-Github-Avanzado/Teoria"]
+	path = varios/Semana-Informatica-2024/Charla-Github-Avanzado/Teoria
+	url = https://github.com/ALK222/Charla-Github-Avanzado-2024
+[submodule "varios/Semana-Informatica-2024/Charla-Github-Avanzado/Ejercicios"]
+	path = varios/Semana-Informatica-2024/Charla-Github-Avanzado/Ejercicios
+	url = https://github.com/ALK222/Ejercicios-Charla-Github-Avanzado-2024
