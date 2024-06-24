@@ -85,3 +85,9 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "varios/Semana-Informatica-2024/Charla-Github-Avanzado/Ejercicios"]
 	path = varios/Semana-Informatica-2024/Charla-Github-Avanzado/Ejercicios
 	url = https://github.com/ALK222/Ejercicios-Charla-Github-Avanzado-2024
+[submodule "4º/ASOR"]
+	path = 4º/ASOR
+	url = https://github.com/ALK222/ASOR
+[submodule "optativas/AA"]
+	path = optativas/AA
+	url = https://github.com/ALK222/AA
