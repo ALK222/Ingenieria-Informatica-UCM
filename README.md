@@ -29,9 +29,11 @@ Colección de prácticas, apuntes y demás de la carrera de Ingeniería Informá
 - Cuarto:
   - [ELP](https://github.com/ALK222/ELP)
   - [DSI](https://github.com/ALK222/DSI)
+  - [ASOR](https://github.com/ALK222/ASOR)
 - Optativas:
   - [NoSQL](https://github.com/ALK222/NoSQL)
   - [PEV](https://github.com/ALK222/PEV)
+  - [AA](https://github.com/ALK222/AA)
 - Varios (colección de cosas aleatorias hechas para la facultad):
   - [concurso de código espagueti](./varios/concurso-codigo-espagueti/)
   - [LAG](./varios/LAG)
