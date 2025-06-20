@@ -94,3 +94,6 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "3º/IA2"]
 	path = 3º/IA2
 	url = https://github.com/ALK222/IA2
+[submodule "2º/EC"]
+	path = 2º/EC
+	url = https://github.com/ALK222/EC
