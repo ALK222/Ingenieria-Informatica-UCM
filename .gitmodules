@@ -100,3 +100,6 @@ url = https://github.com/alk222/Ejercicios-Charla-Semana-Informatica-2023
 [submodule "4º/TFG"]
 	path = 4º/TFG
 	url = https://github.com/FratosVR/tfg
+[submodule "3º/MAR2"]
+	path = 3º/MAR2
+	url = https://github.com/ALK222/MARP2
